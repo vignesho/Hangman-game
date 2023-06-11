@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#word-display {
+    margin: 20px 0;
+    font-size: 24px;
+}
+
+#guess-input {
+    margin-top: 20px;
+}
+
+#letters-guessed {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
